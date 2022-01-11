@@ -2,7 +2,7 @@
 
 Build a fulltext instant-search feature with Redis & Next.js. 
 
-- Watch the [video]() on YouTube.
+- Watch the [video](https://youtu.be/DOIWQddRD5M) on YouTube.
 - Follow the full [Redis Next.js tutorial](https://fireship.io/lessons/redis-nextjs) on Fireship.io. 
 
 ### Usage
